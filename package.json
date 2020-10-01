@@ -4,7 +4,7 @@
   "description": "Realtime chat app with socket.io",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
+    "start": "public/index.html",
     "dev": "nodemon server"
   },
   "author": "Agus nugroho",
